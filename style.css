@@ -349,22 +349,22 @@ p {
 }
 
 .footer-list-satu {
-  width: 20%;
+  /* width: 25%; */
   flex: 1;
 }
 
 .footer-list-dua {
-  width: 20%;
+  /* width: 25%; */
   flex: 1;
 }
 
 .footer-list-tiga {
-  width: 20%;
+  /* width: 25%; */
   flex: 1;
 }
 
 .footer-list-empat {
-  width: 20%;
+  /* width: 25%; */
   flex: 1;
 }
 
@@ -544,5 +544,11 @@ p {
 
   .service-wrapper {
     color: black;
+  }
+
+  .footer-wrapper {
+    display: block;
+    margin: auto 10px;
+    max-width: 100%;
   }
 }
