@@ -526,5 +526,23 @@ p {
 
   .content-list {
     background-color: #98E4FF;
+  } 
+
+  nav ul li a {
+    font-size: 18px;
+
+  }
+
+  .logo a {
+    font-size: 55px;
+  }
+
+  .services p {
+    color: black;
+    font-size: 16px;
+  }
+
+  .service-wrapper {
+    color: black;
   }
 }
