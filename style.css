@@ -480,6 +480,7 @@ p {
 
   .service-wrapper {
     display: block;
+    background-color: #ffa451;
   }
 
   .btn-content {
@@ -521,5 +522,9 @@ p {
     padding: 10px;
     font-size: 25px;
     margin-bottom: 50px;
+  }
+
+  .content-list {
+    background-color: #98E4FF;
   }
 }
