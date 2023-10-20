@@ -551,4 +551,19 @@ p {
     margin: auto 10px;
     max-width: 100%;
   }
+
+  .footer-list-satu p {
+    margin-top: 0px;
+  }
+
+  .footer-list-dua p {
+    margin-top: 0px;
+  }
+
+  .footer-list-tiga p {
+    margin-top: 0px;
+  }
+  .footer-list-empat p {
+    margin-top: 0px;
+  }
 }
