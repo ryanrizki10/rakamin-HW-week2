@@ -144,7 +144,7 @@ section {
 }
 
 .tbl-biru:hover {
-  background-color: var(--second-color);
+  background-color: #FC5185;
   text-decoration: none;
 }
 
